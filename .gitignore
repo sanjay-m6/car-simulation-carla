@@ -24,8 +24,6 @@ env/
 *~
 
 # Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb
 
 # Model files (large files)
 *.h5
